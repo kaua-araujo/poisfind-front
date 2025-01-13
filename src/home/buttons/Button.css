@@ -1,0 +1,29 @@
+.button {
+  background: #1F628E;
+  border-radius: 999px;
+  box-shadow: #1F628E 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+  transition: 1s;
+}
+
+.button:hover {
+    transform: scale(1.05);
+    transition: 1s;
+    background: #1F628E;
+    box-shadow: #1F628E 0 10px 20px -10px;
+    color: #FFFFFF;
+}

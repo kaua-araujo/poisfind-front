@@ -9,34 +9,14 @@ Este é um projeto desenvolvido como parte do processo seletivo da NexBox.
 </br>
 
 ## Como executar o projeto
-
-### Instalar dependências
 ```bash
-npm install
+npm run dev
 ```
-
-### Rodar o projeto
-```bash
-$ npm run start
-```
-
-### Criar banco de dados 
-```bash
-$ npx sequelize-cli db:create
-```
-
-### Migrate no banco de dados
-```bash
-$ npx sequelize-cli db:migrate
-```
-
 
 
 ## Melhorias futuras
 
 - Implementar testes unitários e de integração.
-- Implementar docker.
-
 
 ## Agradecimentos
-Agradeço a oportunidade de participar do processo seletivo da Yandeh. Foi um desafio muito interessante e que me fez pensar em diversas soluções para os problemas propostos.
+Agradeço a oportunidade de participar do processo seletivo da NextBox. Foi um desafio muito interessante e que me fez pensar em diversas soluções para os problemas propostos.

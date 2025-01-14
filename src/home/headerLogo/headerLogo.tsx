@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../../assets/tipografia.svg";
-import "../home.css"
+import "../Home.css"
 function headerLogo() {
     return(
         <div>

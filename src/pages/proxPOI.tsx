@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { toast, ToastContainer } from "react-toastify";
 
-import "./CreatePOI.css";
+import "./createPOI.css";
 import "./proxPOI.css";
 import HeaderLogo from "../home/headerLogo/headerLogo";
 import Button from "../home/buttons/Button";
